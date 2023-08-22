@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.homepage-card {
+    background-color: #6898cc;
+    text-align: center;
+    padding: 10px;
+}
+
+.homepage-top {
+    background-image: url("https://wildlifesos.org/wp-content/uploads/2021/12/Monkey-Featured.jpg");
+    background-size: cover;
+    height: 400px;
+}
+
+.homepage-subcard {
+    height: 200px;
+    width: 180px;
+    margin: 10px;
+    background-color: #b6f0e2;
+    border-radius: 10px;
+    padding: 5px;
+    color: #000302;
+}
+
+.firstpage-background {
+    background-image: url("https://monkeyforestubud.com/wp-content/uploads/2019/10/DSC_3828.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.firstpage-card {
+    background-color: #81a69a;
+    text-align: center;
+    padding: 5px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color: #000302;
+}
+
+.firstpage-subcard {
+    height: 160px;
+    width: 180px;
+    margin: 10px;
+    background-color: #b6f0e2;
+    border-radius: 10px;
+    padding: 5px;
+    color: #000302;
+}
+
+.finalpage-background {
+    background-color: #e6d860;
+    padding: 10px;
+    text-align: center;
+    background-size: cover;
+}
+
+.corousel {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+}
+
+.ytvideo {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+}
